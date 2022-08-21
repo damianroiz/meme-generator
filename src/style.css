@@ -50,7 +50,7 @@ main {
   padding: 36px;
 }
 
-form {
+.form {
   display: grid;
   grid-template:  40px 40px / 1fr 1fr;
   gap: 17px;
@@ -71,6 +71,12 @@ form {
   color: #fff;
 }
 
+.meme--image {
+  margin-top: 80px;
+  position: center;
+  width: 600px;
+
+}
 
 
 
